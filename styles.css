@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-image: url(https://drlongnecker.com/-/file/90/api-calls-are-easy);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width:400px;
+
+}
+button {
+    transform: translateY(40em) translateX(145em); 
+    height: 60px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: white;
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     2px 2px 0 #000;
+    transform: translateY(13em) translateX(45em);
+}
+
